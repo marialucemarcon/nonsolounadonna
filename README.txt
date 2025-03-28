@@ -1,3 +1,8 @@
+NON SOLO UNA DONNA
+Progetto sito web realizzato da Marcon Marialuce per il corso di Infromatica Umanistica (a.a. 2024/2025)
+
+
+COPYRIGHT DEL TEMPLATE: 
 Massively by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
